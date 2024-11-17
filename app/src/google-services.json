@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750242445135",
+    "project_id": "pizzarium-62ff2",
+    "storage_bucket": "pizzarium-62ff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750242445135:android:54bdf1b053a43b47d6b73a",
+        "android_client_info": {
+          "package_name": "com.example.userpizza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr80RcdWSxw8NSxy61MLL4NqQTVIxjpwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
